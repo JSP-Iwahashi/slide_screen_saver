@@ -21,4 +21,5 @@ void main(List<String> args) async {
 
   // フルスクリーン化
   windowManager.setFullScreen(true);
+  windowManager.show();
 }

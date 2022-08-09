@@ -4,9 +4,9 @@ Screen Saver app for Windows.
 
 # Notice
 
-This app uses window_manager library.
-The lib need administrator privileges when first time to build.
-After first build with administrator privileges, you can build with no privileges.
+The administrator privileges are required by window_manager library when first time to build.
+Use @rebuild.bat to easily build with administrator privileges.
+After run @rebuild.bat, you can build on Android Studio with no privileges.
 
 # Develop note
 
